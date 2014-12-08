@@ -14,3 +14,21 @@ body {
   height: 1px; width: 1px;
   margin: -1px; padding: 0; border: 0;
 }
+
+.main-nav {
+  border: none;
+  overflow: auto;
+  padding: 0.5em 1em;
+  font-weight: 500;
+  font-size: 0.9em;
+}
+
+.main-nav ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.main-nav li {
+  text-decoration: none;
+}
